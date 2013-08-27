@@ -13,4 +13,6 @@ If you wish to contribute:
 
 As soon as we receive the contribution, we'll validate it quickly. If you help us on this taks, we'll be happy to help you out about any subject regarding SOAP and PHP ;).
 
+Read more on https://www.wsdltophp.com/Blog/Be-a-part-of-it-by-contributing-then-ask-us-anything-about-SOAP-WS-called-from-PHP.
+
 Thanks you all :)
