@@ -1,0 +1,2539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0">
+	<!-- Translations -->
+	<context>
+		<name>design/register</name>
+		<message>
+			<source>Registration info on %1</source>
+			<translation>Informations d'inscription sur %1</translation>
+		</message>
+		<message>
+			<source>Thank you for registering at %siteurl.</source>
+			<translation>Merci de vous être inscrit sur %siteurl.</translation>
+		</message>
+		<message>
+			<source>Your account information</source>
+			<translation>Information de votre compte</translation>
+		</message>
+		<message>
+			<source>Username</source>
+			<translation>Identifiant</translation>
+		</message>
+		<message>
+			<source>Email</source>
+			<translation>Adresse email</translation>
+		</message>
+		<message>
+			<source>Password</source>
+			<translation>Mot de passe</translation>
+		</message>
+		<message>
+			<source>Click the following URL to confirm your account</source>
+			<translation>Cliquez sur le lien suivant pour confimer votre compte</translation>
+		</message>
+		<message>
+			<source>IP used: </source>
+			<translation>Adresse IP utilisée : </translation>
+		</message>
+	</context>
+	<context>
+		<name>design/user</name>
+		<message>
+			<source>IP used: </source>
+			<translation>Adresse IP utilisée : </translation>
+		</message>
+		<message>
+			<source>A confirmation email has been sent to your email address which contains the account activation link.</source>
+			<translation>Un email de confirmation vous a été envoyé à votre adresse email contant le lien d'activation du compte.</translation>
+		</message>
+		<message>
+			<source>Welcome on WSDL to php!</source>
+			<translation>Bienvenue sur WSDL à php !</translation>
+		</message>
+		<message>
+			<source>Create an account on WSDL to php</source>
+			<translation>Créer un compte sur WSDL à php</translation>
+		</message>
+		<message>
+			<source>Continue on WSDL to php</source>
+			<translation>Continuer sur WSDL à php</translation>
+		</message>
+		<message>
+			<source>Login or Create an account</source>
+			<translation>Se connecter ou Créer un compte</translation>
+		</message>
+		<message>
+			<source>My account</source>
+			<translation>Mom compte</translation>
+		</message>
+		<message>
+			<source>Login</source>
+			<translation>Se connecter</translation>
+		</message>
+		<message>
+			<source>Logout</source>
+			<translation>Se déconnecter</translation>
+		</message>
+		<message>
+			<source>Create an account</source>
+			<translation>Créer un compte</translation>
+		</message>
+		<message>
+			<source>Username</source>
+			<translation>Identifiant</translation>
+		</message>
+		<message>
+			<source>Username:</source>
+			<translation>Identifiant :</translation>
+		</message>
+		<message>
+			<source>Email</source>
+			<translation>Adresse Email</translation>
+		</message>
+		<message>
+			<source>Email:</source>
+			<translation>Adresse Email :</translation>
+		</message>
+		<message>
+			<source>Password</source>
+			<translation>Mot de passe</translation>
+		</message>
+		<message>
+			<source>Confirm password</source>
+			<translation>Confirmer le mot de passe</translation>
+		</message>
+		<message>
+			<source>Forgot your password?</source>
+			<translation>Mot de passe oublié ?</translation>
+		</message>
+		<message>
+			<source>Unable to register new user</source>
+			<translation>Impossible de créer le compte</translation>
+		</message>
+		<message>
+			<source>Back</source>
+			<translation>Retour</translation>
+		</message>
+		<message>
+			<source>Register</source>
+			<translation>S'enregistrer</translation>
+		</message>
+		<message>
+			<source>Discard</source>
+			<translation>Annuler</translation>
+		</message>
+		<message>
+			<source>Update</source>
+			<translation>Mettre à jour</translation>
+		</message>
+		<message>
+			<source>Could not login</source>
+			<translation>Connexion impossible</translation>
+		</message>
+		<message>
+			<source>A valid username and password is required to login.</source>
+			<translation>Merci de saisir un mot de passe et un identifiant valide.</translation>
+		</message>
+		<message>
+			<source>Input did not validate</source>
+			<translation>Des erreurs sont présentes dans les champs</translation>
+		</message>
+		<message>
+			<source>Input did not validate</source>
+			<translation>Des erreurs sont présentes dans les champs</translation>
+		</message>
+		<message>
+			<source>Personal informations</source>
+			<translation>Informations personnelles</translation>
+		</message>
+		<message>
+			<source>Creation date:</source>
+			<translation>Date de création :</translation>
+		</message>
+		<message>
+			<source>Last login:</source>
+			<translation>Dernière connexion :</translation>
+		</message>
+		<message>
+			<source>Type:</source>
+			<translation>Type :</translation>
+		</message>
+		<message>
+			<source>Receive the newsletter:</source>
+			<translation>Recevoir la lettre d'information :</translation>
+		</message>
+		<message>
+			<source>Last modification:</source>
+			<translation>Dernière modification :</translation>
+		</message>
+		<message>
+			<source>Civility:</source>
+			<translation>Civilité :</translation>
+		</message>
+		<message>
+			<source>Address:</source>
+			<translation>Adresse :</translation>
+		</message>
+		<message>
+			<source>Address complement:</source>
+			<translation>Complément d'adresse :</translation>
+		</message>
+		<message>
+			<source>Zip Code:</source>
+			<translation>Code postal :</translation>
+		</message>
+		<message>
+			<source>City:</source>
+			<translation>Ville :</translation>
+		</message>
+		<message>
+			<source>Country:</source>
+			<translation>Pays :</translation>
+		</message>
+		<message>
+			<source>Your language:</source>
+			<translation>Votre langue :</translation>
+		</message>
+		<message>
+			<source>Phone number:</source>
+			<translation>Numéro de téléphone :</translation>
+		</message>
+		<message>
+			<source>I agree to register according to the legals</source>
+			<translation>J'accepte de m'inscrire selon les mentions légales</translation>
+		</message>
+	</context>
+	<context>
+		<name>design/frontpage</name>
+		<message>
+			<source>Welcome on </source>
+			<translation>Bienvenue sur </translation>
+		</message>
+		<message>
+			<source> to </source>
+			<translation> à </translation>
+		</message>
+		<message>
+			<source>From here, you can use the project WsdlToPhp. If you don't know this project, go to the </source>
+			<translation>Depuis cette page, vous pouvez utilisez le projet WsdlToPhp. Si vous ne connaissez pas ce projet, allez à la </translation>
+		</message>
+		<message>
+			<source>about page</source>
+			<translation>page d'à propos</translation>
+		</message>
+		<message>
+			<source>Generate your own WSDL library</source>
+			<translation>Générer votre propre librairie WSDL</translation>
+		</message>
+		<message>
+			<source>By submitting your WSDL, you'll get an archive containing all the generated classes based on the WSDL content</source>
+			<translation>En soumettant votre WSDL, vous aurez une archive contenant toutes les classes générées basées sur le contenu du WSDL</translation>
+		</message>
+		<message>
+			<source>Be careful with what you do!</source>
+			<translation>Attention à ce que vous faites !</translation>
+		</message>
+		<message>
+			<source>As you submit your WSDL online, your WSDL will be public and visible by everybody, as the </source>
+			<translation>Comme vous soumettez votre WSDL en ligne, il sera public et visible par n'importe qui, comme la </translation>
+		</message>
+		<message>
+			<source>packages list</source>
+			<translation>liste des librairies</translation>
+		</message>
+		<message>
+			<source> of existing </source>
+			<translation> existantes des générations </translation>
+		</message>
+		<message>
+			<source>WSDL to php</source>
+			<translation>WSDL à php</translation>
+		</message>
+		<message>
+			<source> generations. Be sure to have the rights to publish it. Moreover, if your WebService needs any kind of authentication, be aware that this website doesn't use the HTTPS protocol. In addition, any personal and authentication informations aren't stored anyway.</source>
+			<translation>. Soyez certains d'avoir le droit de le publier. De plus, si votre WebService nécessite une authentification, soyez conscient que ce site n'utilise pas de protocole HTTPS. Enfin, toute informations personnelle ou d'authentification ne sont aucunement enregistrées.</translation>
+		</message>
+		<message>
+			<source>Generate from URI</source>
+			<translation>Générer à partir d'une URI</translation>
+		</message>
+		<message>
+			<source>Generate from Content</source>
+			<translation>Générer à partir du Contenu</translation>
+		</message>
+		<message>
+			<source>Generate from File Upload</source>
+			<translation>Générer à partir d'un fichier</translation>
+		</message>
+		<message>
+			<source>General Options</source>
+			<translation>Options générales</translation>
+		</message>
+		<message>
+			<source>Generate from </source>
+			<translation>Générer à partir </translation>
+		</message>
+		<message>
+			<source>URI</source>
+			<translation>d'une URI</translation>
+		</message>
+		<message>
+			<source>File Upload</source>
+			<translation>d'un Fichier</translation>
+		</message>
+		<message>
+			<source>Content</source>
+			<translation>du Contenu</translation>
+		</message>
+		<message>
+			<source>General </source>
+			<translation>Options </translation>
+		</message>
+		<message>
+			<source>Options</source>
+			<translation>Générales </translation>
+		</message>
+		<message>
+			<source>Package Name:</source>
+			<translation>Nom de la librairie :</translation>
+		</message>
+		<message>
+			<source>Email:</source>
+			<translation>Adresse Email :</translation>
+		</message>
+		<message>
+			<source>URI:</source>
+			<translation>URI :</translation>
+		</message>
+		<message>
+			<source>Submit URI</source>
+			<translation>Soumettre l'URI</translation>
+		</message>
+		<message>
+			<source>File:</source>
+			<translation>Fichier :</translation>
+		</message>
+		<message>
+			<source>Browse</source>
+			<translation>Parcourir</translation>
+		</message>
+		<message>
+			<source>Submit File</source>
+			<translation>Soumettre le fichier</translation>
+		</message>
+		<message>
+			<source>Content:</source>
+			<translation>Contenu :</translation>
+		</message>
+		<message>
+			<source>Submit Content</source>
+			<translation>Soumettre le contenu</translation>
+		</message>
+		<message>
+			<source>Option Name</source>
+			<translation>Nom de l'Option</translation>
+		</message>
+		<message>
+			<source>Option Value</source>
+			<translation>Valeur de l'Option</translation>
+		</message>
+		<message>
+			<source>Options that are used and applied to any chosen generation method</source>
+			<translation>Les options sont utilisées et appliquées à n'importe quelle méthode choisie</translation>
+		</message>
+		<message>
+			<source>User authentication for WSDL</source>
+			<translation>Authentification utilisateur pour le WSDL</translation>
+		</message>
+		<message>
+			<source>Login:</source>
+			<translation>Identifiant :</translation>
+		</message>
+		<message>
+			<source>Password:</source>
+			<translation>Mot de passe :</translation>
+		</message>
+		<message>
+			<source>If errors occur or if we need to contact you about the WSDL</source>
+			<translation>Si une erreur survient ou si nous devons vous contacter concernant le WSDL</translation>
+		</message>
+		<message>
+			<source>Schema import won't work unless path is absolute and doesn't require any authentication.</source>
+			<translation>L'import de schéma ne fonctionnera que si le chemin est absolu et ne requiert pas d'authentification.</translation>
+		</message>
+		<message>
+			<source>Fill in with your WSDL content. Schema import won't work unless path is absolute and doesn't require any authentication.</source>
+			<translation>Copier ici le contenu exact de votre WSDL. L'import de schéma ne fonctionnera que si le chemin est absolu et ne requiert pas d'authentification.</translation>
+		</message>
+		<message>
+			<source>leave empty if authentication is useless</source>
+			<translation>laisser vide si l'authentification est inutile</translation>
+		</message>
+		<message>
+			<source>Newsletter subscription:</source>
+			<translation>Inscription à la newsletter :</translation>
+		</message>
+		<message>
+			<source>If I validate this step, I acknowledge that my WSDL will be public and visible by anyone.__linebreak__I will be charged consequently if I wish to make it removed afterwards.</source>
+			<translation>Si je valide cette étape, je reconnais que mon WSDL sera public et visible de tout le monde.__linebreak__Je devrais m'acquitter d'une compensation financière pour le faire supprimer après coup.</translation>
+		</message>
+		<message>
+			<source>Please fix highlighted required field(s) before continuing.</source>
+			<translation>Merci de corriger le(s) champ(s) obligatoire(s) mis en évidence avant de continuer.</translation>
+		</message>
+		<message>
+			<source>My WSDL is privacy free and I won't ask to remove it afterwards: </source>
+			<translation>Mon WSDL est libre de toute propriété privée et je ne demanderai pas de le supprimer après coup : </translation>
+		</message>
+		<message>
+			<source>Processing, please wait...</source>
+			<translation>Traitement en cours, merci de patienter...</translation>
+		</message>
+		<message>
+			<source>Generated classes will then be named:</source>
+			<translation>Les classes générées seront alors nommées :</translation>
+		</message>
+		<message>
+			<source>WsdlClass class:</source>
+			<translation>Classe WsdlClass :</translation>
+		</message>
+		<message>
+			<source>ClassMap class:</source>
+			<translation>Classe ClassMap :</translation>
+		</message>
+		<message>
+			<source>Service classes:</source>
+			<translation>Classes Service :</translation>
+		</message>
+		<message>
+			<source>Struct classes:</source>
+			<translation>Classes Struct :</translation>
+		</message>
+		<message>
+			<source>Enumeration classes:</source>
+			<translation>Classes Enumeration :</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>design/forms</name>
+		<message>
+			<source>Send form</source>
+			<translation>Envoyer</translation>
+		</message>
+		<message>
+			<source>Missing or invalid input</source>
+			<translation>Champs invalides ou manquants</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>design/translations</name>
+		<message>
+			<source>Email</source>
+			<translation>Adresse Email</translation>
+		</message>
+		<message>
+			<source>Subject</source>
+			<translation>Sujet</translation>
+		</message>
+		<message>
+			<source>Message</source>
+			<translation>Message</translation>
+		</message>
+		<message>
+			<source>Name</source>
+			<translation>Nom</translation>
+		</message>
+		<message>
+			<source>Go to WSDL used</source>
+			<translation>Voir le WSDL utilisé</translation>
+		</message>
+		<message>
+			<source>An error occurred, please read the original message:</source>
+			<translation>Une erreur est survenue, merci de lire le message original :</translation>
+		</message>
+		<message>
+			<source>Last generation:</source>
+			<translation>Dernière génération :</translation>
+		</message>
+		<message>
+			<source>Download package:</source>
+			<translation>Télécharger la librairie :</translation>
+		</message>
+		<message>
+			<source>Download package as zip file</source>
+			<translation>Télécharger la librairie au format zip</translation>
+		</message>
+		<message>
+			<source>Options Used</source>
+			<translation>Options Utilisées</translation>
+		</message>
+		<message>
+			<source>Browse Package</source>
+			<translation>Parcourir la Librairie</translation>
+		</message>
+		<message>
+			<source>Execute Package</source>
+			<translation>Exécuter la Librairie</translation>
+		</message>
+		<message>
+			<source>Read the PHP documentation</source>
+			<translation>Lire la documentation PHP</translation>
+		</message>
+		<message>
+			<source>Options that have been used</source>
+			<translation>Les options qui ont été utilisées</translation>
+		</message>
+		<message>
+			<source>Select a file to view its content</source>
+			<translation>Sélectionner un fichier pour voir son contenu</translation>
+		</message>
+		<message>
+			<source>Go to WSDLs list</source>
+			<translation>Voir la liste des WSDL</translation>
+		</message>
+		<message>
+			<source>Go to your own WSDLs list</source>
+			<translation>Voir votre liste de WSDL</translation>
+		</message>
+		<message>
+			<source>List of WSDL generated packages</source>
+			<translation>Liste des librairies WSDL générées</translation>
+		</message>
+		<message>
+			<source>From URI:</source>
+			<translation>Depuis l'URI :</translation>
+		</message>
+		<message>
+			<source>With Content:</source>
+			<translation>Avec le contenu :</translation>
+		</message>
+		<message>
+			<source>Click to display content</source>
+			<translation>Cliquer pour voir le contenu</translation>
+		</message>
+		<message>
+			<source>Click to hide content</source>
+			<translation>Cliquer pour masquer le contenu</translation>
+		</message>
+		<message>
+			<source>Last Generation</source>
+			<translation>Dernière génération</translation>
+		</message>
+		<message>
+			<source>WSDL Identifier</source>
+			<translation>Identifiant du WSDL</translation>
+		</message>
+		<message>
+			<source>WSDL Packages</source>
+			<translation>Librairies du WSDL</translation>
+		</message>
+		<message>
+			<source>Host</source>
+			<translation>Hôtes</translation>
+		</message>
+		<message>
+			<source>If JavaScript is disabled, you can't use this website in good conditions.</source>
+			<translation>Si JavaScript n'est pas activé, vous ne pouvez pas utiliser ce site correctement.</translation>
+		</message>
+		<message>
+			<source>View WSDL </source>
+			<translation>Voir le WSDL </translation>
+		</message>
+		<message>
+			<source>Click to open folder: </source>
+			<translation>Cliquer pour ouvrir le dossier : </translation>
+		</message>
+		<message>
+			<source>Click to display content of file: </source>
+			<translation>Cliquer pour afficher le contenu du fichier : </translation>
+		</message>
+		<message>
+			<source>Package Name</source>
+			<translation>Nom de la librairie</translation>
+		</message>
+		<message>
+			<source>Search</source>
+			<translation>Rechercher</translation>
+		</message>
+		<message>
+			<source>First name</source>
+			<translation>Prénom</translation>
+		</message>
+		<message>
+			<source>First name:</source>
+			<translation>Prénom :</translation>
+		</message>
+		<message>
+			<source>Last name</source>
+			<translation>Nom</translation>
+		</message>
+		<message>
+			<source>Last name:</source>
+			<translation>Nom :</translation>
+		</message>
+		<message>
+			<source>User account:</source>
+			<translation>Compte utilisateur :</translation>
+		</message>
+		<message>
+			<source>Personal informations</source>
+			<translation>Informations personnelles</translation>
+		</message>
+		<message>
+			<source>Account informations</source>
+			<translation>Informations du compte</translation>
+		</message>
+		<message>
+			<source>Switch to Language</source>
+			<translation>Changer de langue</translation>
+		</message>
+		<message>
+			<source>French</source>
+			<translation>Français</translation>
+		</message>
+		<message>
+			<source>English</source>
+			<translation>Anglais</translation>
+		</message>
+		<message>
+			<source>Receive the newsletter</source>
+			<translation>Recevoir la lettre d'information</translation>
+		</message>
+		<message>
+			<source>Civility</source>
+			<translation>Civilité</translation>
+		</message>
+		<message>
+			<source>Address</source>
+			<translation>Adresse</translation>
+		</message>
+		<message>
+			<source>Address complement</source>
+			<translation>Complément d'adresse</translation>
+		</message>
+		<message>
+			<source>Zip Code</source>
+			<translation>Code postal</translation>
+		</message>
+		<message>
+			<source>City</source>
+			<translation>Ville</translation>
+		</message>
+		<message>
+			<source>Country</source>
+			<translation>Pays</translation>
+		</message>
+		<message>
+			<source>Phone number</source>
+			<translation>Numéro de téléphone</translation>
+		</message>
+		<message>
+			<source>Miss</source>
+			<translation>Mlle</translation>
+		</message>
+		<message>
+			<source>Mrs</source>
+			<translation>Mme</translation>
+		</message>
+		<message>
+			<source>Mr</source>
+			<translation>M</translation>
+		</message>
+		<message>
+			<source>Privacy limit reached</source>
+			<translation>Limite en mode privé atteinte</translation>
+		</message>
+		<message>
+			<source>Anonymous Users</source>
+			<translation>Utilisateurs anonymes</translation>
+		</message>
+		<message>
+			<source>Free</source>
+			<translation>Gratuit</translation>
+		</message>
+		<message>
+			<source>Advanced</source>
+			<translation>Avancé</translation>
+		</message>
+		<message>
+			<source>Premium</source>
+			<translation>Premium</translation>
+		</message>
+		<message>
+			<source>On demand</source>
+			<translation>Sur mesure</translation>
+		</message>
+		<message>
+			<source>Download the file</source>
+			<translation>Télécharger le fichier</translation>
+		</message>
+		<message>
+			<source>mandatory field</source>
+			<translation>champ obligatoire</translation>
+		</message>
+		<message>
+			<source>Your language</source>
+			<translation>Votre langue</translation>
+		</message>
+		<message>
+			<source>English</source>
+			<translation>Anglais</translation>
+		</message>
+		<message>
+			<source>French</source>
+			<translation>Français</translation>
+		</message>
+		<message>
+			<source>You didn't generated any package yet, go for it!</source>
+			<translation>Vous n'avez encore généré aucune librairie, allez-y dès maintenant !</translation>
+		</message>
+		<message>
+			<source>Feature</source>
+			<translation>Fonctionnalité</translation>
+		</message>
+		<message>
+			<source>This post has %cc comment%pl:</source>
+			<translation>Cet article a %cc commentaire%pl :</translation>
+		</message>
+		<message>
+			<source>This post has %cc comment%pl</source>
+			<translation>Cet article a %cc commentaire%pl</translation>
+		</message>
+		<message>
+			<source>Back to top</source>
+			<translation>Retourner en haut</translation>
+		</message>
+		<message>
+			<source>Last modification date: </source>
+			<translation>Date de dernière modification : </translation>
+		</message>
+		<message>
+			<source>homepage</source>
+			<translation>page d'accueil</translation>
+		</message>
+		<message>
+			<source>Here is some statistic we are proud of</source>
+			<translation>Quelques statisques pour lesquelles nous sommes fiers</translation>
+		</message>
+		<message>
+			<source>Do you need any help?</source>
+			<translation>Besoin d'un coup de main ?</translation>
+		</message>
+		<message>
+			<source>If you need any help using this package, feel free to contact us so we can figure out together how to use it the best way it can be.</source>
+			<translation>Si vous avez besoin d'aide pour utiliser cette librairie, n'hésitez pas à nous contacter afin que nous trouvions ensemble le meilleur moyen de l'utiliser.</translation>
+		</message>
+		<message>
+			<source>creating an account</source>
+			<translation>vous créant un compte</translation>
+		</message>
+		<message>
+			<source> or </source>
+			<translation> ou en </translation>
+		</message>
+		<message>
+			<source>logging in your account</source>
+			<translation>vous connectant à votre compte</translation>
+		</message>
+		<message>
+			<source>own packages</source>
+			<translation>propres librairies</translation>
+		</message>
+		<message>
+			<source>Read more</source>
+			<translation>En savoir plus</translation>
+		</message>
+		<message>
+			<source>By clicking the button "%1", I accept the terms of use of the site.</source>
+			<translation>En cliquant sur le bouton "%1", j'accepte les conditions générales de vente et d'utilisation</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>design/errors</name>
+		<message>
+			<source>The sumitted WSDL seems empty, please correct it before submitting it again.</source>
+			<translation>Le WSDL soumis semble vide, merci de le corriger avant de le soumettre de nouveau.</translation>
+		</message>
+		<message>
+			<source>The WSDL schema structure seems incorrect and could not be loaded, please correct it before submitting it again.</source>
+			<translation>La structure du schéma WSDL semble invalide et n'a pu être chargée, merci de la corrige avant de le soumettre de nouveau.</translation>
+		</message>
+		<message>
+			<source>The WSDL could not be reached, please verify the accessibility of it before submitting it again.</source>
+			<translation>Le WSDL n'a pas pu être chargé, merci de vérifier l'accessibilité de ce dernier avant de le soumettre de nouveau.</translation>
+		</message>
+		<message>
+			<source>An error occurred during the upload, please verify your file before submitting it again.</source>
+			<translation>Une erreur est survenue lors de l'envoi, merci de vérifier le fichier avant de le soumettre de nouveau.</translation>
+		</message>
+		<message>
+			<source>The system was unable to get access to your file, please verify your file before submitting it again.</source>
+			<translation>Le système n'a pas pu accéder à votre fichier, merci de le véfifier avant de le soumettre de nouveau.</translation>
+		</message>
+		<message>
+			<source>The URI you submitted is empty, please fill in the URI field with a valid URI before submitting it again.</source>
+			<translation>L'URI soumise est vide, merci de saisir une URI valide dans le champ avant de le soumettre de nouveau.</translation>
+		</message>
+		<message>
+			<source>The package name must be set with a valid alphanumeric string, please set a valid package name like "PaymantWsdl".</source>
+			<translation>Le nom de la librairie doit être défini avec des caractères alphanumériques valides, merci de définir un nom de librairie valide tel que "GestionUtilisateurs"</translation>
+		</message>
+		<message>
+			<source>You've reached the maximum limit of generated packages.__linebreak__Indeed, your account type allows you to generate a limited number of package(s).__linebreak__If you wish to generate more packages, please consider upgrading your account from your account dashboard (My account -> Account information -> Type).</source>
+			<translation>Vous avez atteint la limite maximum de génération de librairies.__linebreak__En effet, votre compte vous permet de générer en mode privé un nombre limité de librairies.__linebreak__Si vous souhaitez générer davantage de librairies, merci de considérer à changer de type de compte depuis votre tableau de bord (Mon compte -> Informations du compte -> Type).</translation>
+		</message>
+		<message>
+			<source>You must enter a valid email address in order to submit a WSDL. Your email will only be used if an error occurs or if we need to contact you about.</source>
+			<translation>Vous devez saisir une adresse email valide afin de soumettre un WSDL. Votre adresse email sera uniquement utilisée si une erreur se produit ou si nous devons vous contacter à propos du WSDL.</translation>
+		</message>
+		<message>
+			<source>Your email address seems invalid. Please use a valid email address to use this service. If your email address is valid, it means we made an error so please forgive us and send us a message via the contact form so we can fix this situation.</source>
+			<translation>Votre addresse email semble invalide. Merci d'utiliser une adresse email valide pour avoir accès à ce service. Si vote adresse email est valide, cela veut dire que nous avons commis une erreur, de ce fait merci de nous en excuser et de nous envoyer un message par le formulaire de contact afin que vous remédions à cette situation.</translation>
+		</message>
+		<message>
+			<source>You must validate the fact that publishing your WSDL will make it public and visible by anyone.</source>
+			<translation>Vous devez valider le fait que publier votre WSDL le rendre public et visible de tout le monde.</translation>
+		</message>
+		<message>
+			<source>You've been recognized as a bot or a automated robot (by your IP and/or your browser name). If you're not a bot/automated robot, please excuse us for this mistake and send us a message via the contact form so we can fix this situation.</source>
+			<translation>Vous avez été reconnu comme étant un bot ou un robot automattisé (par votre IP et/ou votre navigateur). Si vous n'êtes pas un bot ou rotot automatisé, merci de nous excuser pour cette erreur et envoyez-nous un message par le formulaire de contact afin que nous remédions à cette situation.</translation>
+		</message>
+		<message>
+			<source>The URI you submitted seems to be local to your environment and not accessible from outside network. In this case, you maybe use the File or Content generation method.</source>
+			<translation>L'URI que vous avez soumis semble être locale à votre environnement et donc ne pas être accessible depuis le réseau externe. Dans ce cas, vous devriez peut-être utiliser la méthode de générétion par Fichier ou Contenu.</translation>
+		</message>
+		<message>
+			<source>This option is disabled certainly due to an unpaid invoice.__linebreak__Please pay your invoice so you will be able to call this option again.__linebreak__If you think this is a mistake from us, let us know by the contact form.__linebreak__Thank you for your understanding.</source>
+			<translation>Cette option est désactivée certainement dû à une facture impayée.__linebreak__Merci de régler votre facture afin de pouvoir utiliser de nouveau cette option.__linebreak__Si vous estimez que c'est une erreur de notre part, merci de nous le faire savoir par le formulaire de contact.__linebreak__Merci pout votre compréhension.</translation>
+		</message>
+		<message>
+			<source>You've been recognized as a spam bot by your IP. If you're not a spam bot, please excuse us for this mistake and send us a message via the contact form so we can fix this situation.</source>
+			<translation>Vous avez été reconnu comme étant un robot de spam par votre IP. Si vous n'êtes pas un rotot de spam, merci de nous excuser pour cette erreur et envoyez-nous un message par le formulaire de contact afin que nous remédions à cette situation.</translation>
+		</message>
+		<message>
+			<source>An error occurred during the form validation due to Javascript that is maybe disabled so we couldn't generate the package. Please try again and if you're still blocked, please excuse us and send us a message via the contact form so we can fix this situation.</source>
+			<translation>Une erreur est survenue lors de la validation du formulaire sûrement dû au fait que Javascript doit être désactivé ce qui a empêché la génération de la librairie. Merci de bien vouloir essayer de nouveau et si vous êtes toujours bloqués, excusez-nous et envoyez-nous un message par le formulaire de contact afin que nous remédions à cette situation.</translation>
+		</message>
+		<message>
+			<source>The URI you submitted seems to be associated to Windows Web service and points to its description as it ends with .asmx or .svc. Try to access to this same URI adding ?WSDL at the end in order to validate that this last URI is the right one then submit this one.</source>
+			<translation>L'URI que vous avez soumis semble être associée à un Service web Windows et pointe vers sa description du fait qu'elle finit par .asmx ou .svc. Tentez d'accéder à cette même URI en ajoutant ?WSDL à sa fin afin de valider que c'est bien cette dernière qui est la bonne et utilisez-là de nouveau pour la soumettre.</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>design/account</name>
+		<message>
+			<source>Profile</source>
+			<translation>Profil</translation>
+		</message>
+		<message>
+			<source>Personal information</source>
+			<translation>Informations personnelles</translation>
+		</message>
+		<message>
+			<source>Usage history</source>
+			<translation>Historique d'utilisation</translation>
+		</message>
+		<message>
+			<source>Billing &amp; payments</source>
+			<translation>Facturation et paiements</translation>
+		</message>
+		<message>
+			<source>Account information</source>
+			<translation>Informations du compte</translation>
+		</message>
+		<message>
+			<source>Edit</source>
+			<translation>Editer</translation>
+		</message>
+		<message>
+			<source>Current IP:</source>
+			<translation>IP actuelle :</translation>
+		</message>
+		<message>
+			<source>Support</source>
+			<translation>Support</translation>
+		</message>
+		<message>
+			<source>Option used</source>
+			<translation>Option utilisée</translation>
+		</message>
+		<message>
+			<source>Use packages online</source>
+			<translation>Utiliser les librairies en ligne</translation>
+		</message>
+		<message>
+			<source>Credit - Use packages online</source>
+			<translation>Crédit - Utiliser les librairies en ligne</translation>
+		</message>
+		<message>
+			<source>Use the generated packages online from this website by an intuitive Web interface. You can execute a certain number of calls per consecutive 24 hours.</source>
+			<translation>Utilisez les librairies générée(s) en ligne depuis ce site par une interface Web intuitive. Vous pouvez exécuter un certain nombre d'appels durant 24 heures consécutives.</translation>
+		</message>
+		<message>
+			<source>Package used: </source>
+			<translation>Librairie utilisée : </translation>
+		</message>
+		<message>
+			<source>Service:</source>
+			<translation>Service :</translation>
+		</message>
+		<message>
+			<source>Operation:</source>
+			<translation>Opération :</translation>
+		</message>
+		<message>
+			<source>Generate packages privatly</source>
+			<translation>Générer en mode privé</translation>
+		</message>
+		<message>
+			<source>Credit - Generate packages privatly</source>
+			<translation>Crédit - Générer en mode privé</translation>
+		</message>
+		<message>
+			<source>As soon as you are logged in, every package you generate is private meaning only you can see it.</source>
+			<translation>Dès lors que vous êtes connectés, chaque librairie que vous générez est privée c'est-à-dire qu'elle n'est visible que par vous uniquement.</translation>
+		</message>
+		<message>
+			<source>Method:</source>
+			<translation>Méthode :</translation>
+		</message>
+		<message>
+			<source>URI:</source>
+			<translation>URI :</translation>
+		</message>
+		<message>
+			<source>Content:</source>
+			<translation>Contenu :</translation>
+		</message>
+		<message>
+			<source>File:</source>
+			<translation>Fichier :</translation>
+		</message>
+		<message>
+			<source>Package Name:</source>
+			<translation>Nom de la Librairie :</translation>
+		</message>
+		<message>
+			<source>From IP</source>
+			<translation>De l'adresse IP</translation>
+		</message>
+		<message>
+			<source>Use packages remotely</source>
+			<translation>Utiliser les librairies à distance</translation>
+		</message>
+		<message>
+			<source>Credit - Use packages remotely</source>
+			<translation>Crédit - Utiliser les librairies à distance</translation>
+		</message>
+		<message>
+			<source>Use the generated packages remotely from your environment by calling a REST Web service.</source>
+			<translation>Utilisez les librairies générées en ligne depuis votre environnement en appelant une Service web REST.</translation>
+		</message>
+		<message>
+			<source>Automated workflows</source>
+			<translation>Processus automatisés</translation>
+		</message>
+		<message>
+			<source>Credit - Automated workflows</source>
+			<translation>Crédit - Processus automatisés</translation>
+		</message>
+		<message>
+			<source>Take advantage of this platform to call Web services automatically in order to receive data at your own frequency in your prefered format (XML, Email, CSV, Web service).</source>
+			<translation>Profitez des avantages de cette plateforme pour appeler les Services web automatiquement afin de recevoir les données à votre fréquence dans votre format préféré (XML, Email, CSV, Service web).</translation>
+		</message>
+		<message>
+			<source>Support</source>
+			<translation>Support</translation>
+		</message>
+		<message>
+			<source>Credit - Support</source>
+			<translation>Crédit - Support</translation>
+		</message>
+		<message>
+			<source>Send us messages from your account dashboard to ask question or solve any query.</source>
+			<translation>Envoyez-nous un message depuis le tableau de bord de votre compte pour nous poser une question ou résoudre toute demande.</translation>
+		</message>
+		<message>
+			<source>Download WSDL content</source>
+			<translation>Télécharger le WSDL</translation>
+		</message>
+		<message>
+			<source>Download PHP content</source>
+			<translation>Télécharger le PHP</translation>
+		</message>
+		<message>
+			<source>Download the submitted WSDL which has been cleaned and formatted.</source>
+			<translation>Téléchargez le WSDL publié qui a été nettoyé et formaté.</translation>
+		</message>
+		<message>
+			<source>Download content</source>
+			<translation>Télécharger le contenu du PHP</translation>
+		</message>
+		<message>
+			<source>Download any generated PHP file one by one as you look at it.</source>
+			<translation>Téléchargez n'importe quel fichier PHP généré un par un tel que vous le voyez.</translation>
+		</message>
+		<message>
+			<source>WSDL downloaded: </source>
+			<translation>WSDL téléchargé : </translation>
+		</message>
+		<message>
+			<source>Generate the PHP Doc</source>
+			<translation>Générer la documentation PHP</translation>
+		</message>
+		<message>
+			<source>Credit - Generate the PHP Doc</source>
+			<translation>Crédit - Générer la documentation PHP</translation>
+		</message>
+		<message>
+			<source>You can generate the PHP documentation for each package you have already generated. It's pretty useful to browse easily the generated classes.</source>
+			<translation>Vous pouvez générer la documentation PHP pour chaque librairie que vous avez généré. C'est plutôt utile pour parcourir facilement l'ensemble des classes générées.</translation>
+		</message>
+		<message>
+			<source>Save your requests</source>
+			<translation>Sauvegardez vos requêtes</translation>
+		</message>
+		<message>
+			<source>Credit - Save your requests</source>
+			<translation>Crédit - Sauvegardez vos requêtes</translation>
+		</message>
+		<message>
+			<source>As you may execute the same request several times, you can save the call in order to use this call as a pre-defined call trough the REST Web service.</source>
+			<translation>Comme vous allez peut-être exécuter la même requête plusieurs fois, vous pouvez sauvegarder l'appel afin de l'utiliser comme un appel pré-défini à travers le Service web REST.</translation>
+		</message>
+		<message>
+			<source>Get help to develop</source>
+			<translation>Aide au développement</translation>
+		</message>
+		<message>
+			<source>Even if the generated package is pretty helpful, you may be still in pain dealling with the SOAP Web service. Ask us and we'll take care or the development.</source>
+			<translation>Même si la librairie générée peut être d'une grande aide, vous pouvez peut-être encore recontrer des difficultés avec le Service web SOAP. Demandez-nous et nous nous changerons du développement.</translation>
+		</message>
+		<message>
+			<source>Download the data</source>
+			<translation>Téléchargez les données</translation>
+		</message>
+		<message>
+			<source>When you execute a request, PHP is dynamically generated and executed on the fly which generates a XML request. Moreover, XML and PHP responses are displayed but not usable. This feaure allows you to download either the requests or/and the responses.</source>
+			<translation>Lorsque vous exécutez une requête, du code PHP est généré dynamiquement et exécuté à la volée ce qui génére une requête XML. De plus, les réponses XML et PHP sont affichées mais non utilisables. Cette fonctionnalité vous permet de télécharger les requêtes et/ou les réponses.</translation>
+		</message>
+		<message>
+			<source>Don't waste any time and generate right now your first private library from the homepage!</source>
+			<translation>Ne perdez pas une seule seconde et générez dès maintenant votre première librairie en mode privé !</translation>
+		</message>
+		<message>
+			<source>We suggest you edit your personal informations so you'll be able to upgrade your account or purchase credits. In order to do that, go to your </source>
+			<translation>Nous vous suggérons d'éditer vos informations personnelles ainsi vous serez à même de mettre à jour votre compte ou d'acheter des crédits. Afin d'éditer vos informations, rendez-vous dans votre </translation>
+		</message>
+		<message>
+			<source>account dashboard</source>
+			<translation>tableau de bord</translation>
+		</message>
+		<message>
+			<source>If you wish, you can also start generating your first own private package going on the </source>
+			<translation>Si vous le souhaitez, vous pouvez également commencer à générer votre première librairie privée en vous rendant sur la </translation>
+		</message>
+	</context>
+	<context>
+		<name>design/execute</name>
+		<message>
+			<source>Pick a service</source>
+			<translation>Sélectionner un service</translation>
+		</message>
+		<message>
+			<source>Click to see methods of this service</source>
+			<translation>Cliquer pour voir les méthodes de ce service</translation>
+		</message>
+		<message>
+			<source>Click to set a call to this method</source>
+			<translation>Cliquer pour définir un appel à cette méthode</translation>
+		</message>
+		<message>
+			<source>Parameter n&amp;deg;</source>
+			<translation>Paramètre n&amp;deg;</translation>
+		</message>
+		<message>
+			<source>This parameter is required</source>
+			<translation>Ce paramètre est obligatoire</translation>
+		</message>
+		<message>
+			<source>Parameter type:</source>
+			<translation>Type du paramètre :</translation>
+		</message>
+		<message>
+			<source>Click to edit parameters of object to send</source>
+			<translation>Cliquer pour éditer les paramètre de l'objet à envoyer</translation>
+		</message>
+		<message>
+			<source>Send request</source>
+			<translation>Envoyer la requête</translation>
+		</message>
+		<message>
+			<source>Sending request, please wait...</source>
+			<translation>Requête en cours, merci de patienter...</translation>
+		</message>
+		<message>
+			<source>This parameter doesn't need any value.</source>
+			<translation>Ce paramètre ne nécessite aucune valeur.</translation>
+		</message>
+		<message>
+			<source>Call the method:</source>
+			<translation>Appeler la méthode :</translation>
+		</message>
+		<message>
+			<source>SOAP options</source>
+			<translation>Options SOAP</translation>
+		</message>
+		<message>
+			<source>View the WSDL online</source>
+			<translation>Visualier le WSDL en ligne</translation>
+		</message>
+		<message>
+			<source>Authentication login</source>
+			<translation>Login d'authentification</translation>
+		</message>
+		<message>
+			<source>leave empty if not required</source>
+			<translation>laisser vide si inutile</translation>
+		</message>
+		<message>
+			<source>Authentication password</source>
+			<translation>Mot de passe d'authentification</translation>
+		</message>
+		<message>
+			<source>SOAP version</source>
+			<translation>Version SOAP</translation>
+		</message>
+		<message>
+			<source>SOAP encoding</source>
+			<translation>Encodage SOAP</translation>
+		</message>
+		<message>
+			<source>leave empty if UTF-8 is default</source>
+			<translation>laisser vide UTF-8 par défaut</translation>
+		</message>
+		<message>
+			<source>Web service location</source>
+			<translation>URL du Service web</translation>
+		</message>
+		<message>
+			<source>leave empty if you're not 100% sure</source>
+			<translation>laisser vide si vous n'êtes pas sûr à 100%</translation>
+		</message>
+		<message>
+			<source>http://www.php.net/manual/en/soapclient.soapclient.php#refsect1-soapclient.soapclient-parameters</source>
+			<translation>http://www.php.net/manual/fr/soapclient.soapclient.php#refsect1-soapclient.soapclient-parameters</translation>
+		</message>
+		<message>
+			<source>See the online documentation for SoapClient class options</source>
+			<translation>Voir la documentation en ligne concernant les options de la classe SoapClient</translation>
+		</message>
+		<message>
+			<source>Display content</source>
+			<translation>Afficher le contenu</translation>
+		</message>
+		<message>
+			<source>Hide content</source>
+			<translation>Masquer le contenu</translation>
+		</message>
+		<message>
+			<source>Show content</source>
+			<translation>Afficher le contenu</translation>
+		</message>
+		<message>
+			<source>SOAP parameter(s)</source>
+			<translation>Paramètre(s) SOAP</translation>
+		</message>
+		<message>
+			<source>SOAP requests</source>
+			<translation>Requêtes SOAP</translation>
+		</message>
+		<message>
+			<source>SOAP responses</source>
+			<translation>Réponses SOAP</translation>
+		</message>
+		<message>
+			<source>XML request</source>
+			<translation>Requête XML</translation>
+		</message>
+		<message>
+			<source>PHP request</source>
+			<translation>Requête PHP</translation>
+		</message>
+		<message>
+			<source>No call/response yet</source>
+			<translation>Pas encore d'appel/de réponse</translation>
+		</message>
+		<message>
+			<source>XML response</source>
+			<translation>Réponse XML</translation>
+		</message>
+		<message>
+			<source>HTTP Headers</source>
+			<translation>Entêtes HTTP</translation>
+		</message>
+		<message>
+			<source>SOAP Header sent</source>
+			<translation>Entête SOAP transmise</translation>
+		</message>
+		<message>
+			<source>PHP response</source>
+			<translation>Réponse PHP</translation>
+		</message>
+		<message>
+			<source>SOAP Fault</source>
+			<translation>Erreur SOAP</translation>
+		</message>
+		<message>
+			<source>Empty response</source>
+			<translation>Réponse vide</translation>
+		</message>
+		<message>
+			<source>Empty request</source>
+			<translation>Requête vide</translation>
+		</message>
+		<message>
+			<source>Message:</source>
+			<translation>Message :</translation>
+		</message>
+		<message>
+			<source>Fault code:</source>
+			<translation>Code d'erreur :</translation>
+		</message>
+		<message>
+			<source>Code:</source>
+			<translation>Code :</translation>
+		</message>
+		<message>
+			<source>Detail:</source>
+			<translation>Détail :</translation>
+		</message>
+		<message>
+			<source>No fault!</source>
+			<translation>Aucune erreur !</translation>
+		</message>
+		<message>
+			<source>SOAP Header to send</source>
+			<translation>Entête SOAP à envoyer</translation>
+		</message>
+		<message>
+			<source>HTTP Header to send</source>
+			<translation>Entête HTTP à envoyer</translation>
+		</message>
+		<message>
+			<source>Add value to array</source>
+			<translation>Ajouter une valeur au tableau</translation>
+		</message>
+		<message>
+			<source>Remove value</source>
+			<translation>Supprimer la valeur</translation>
+		</message>
+		<message>
+			<source>Add one more Header</source>
+			<translation>Ajouter un Entête de plus</translation>
+		</message>
+		<message>
+			<source>Remove this Header</source>
+			<translation>Supprimer cet Entête</translation>
+		</message>
+		<message>
+			<source>Namespace</source>
+			<translation>Espace de noms</translation>
+		</message>
+		<message>
+			<source>the namespace of the SOAP header element</source>
+			<translation>l'espace de noms de l'élément d'entête SOAP</translation>
+		</message>
+		<message>
+			<source>Name</source>
+			<translation>Nom</translation>
+		</message>
+		<message>
+			<source>Value</source>
+			<translation>Valeur</translation>
+		</message>
+		<message>
+			<source>the name of the SoapHeader object</source>
+			<translation>le nom de l'élément d'entête SOAP</translation>
+		</message>
+		<message>
+			<source>the name of the HTTP header element</source>
+			<translation>le nom de l'élement d'entête HTTP</translation>
+		</message>
+		<message>
+			<source>the value of the HTTP header element</source>
+			<translation>la valeur de l'élement d'entête HTTP</translation>
+		</message>
+		<message>
+			<source>MustUnderstand</source>
+			<translation>MustUnderstand</translation>
+		</message>
+		<message>
+			<source>value of the mustUnderstand attribute of the SOAP header element</source>
+			<translation>valeur de l'attribut mustUnderstand de l'élément d'entête SOAP</translation>
+		</message>
+		<message>
+			<source>Actor</source>
+			<translation>Actor</translation>
+		</message>
+		<message>
+			<source>Data</source>
+			<translation>Contenu</translation>
+		</message>
+		<message>
+			<source>value of the actor attribute of the SOAP header element</source>
+			<translation>valeur de l'attribut actor de l'élément d'entête SOAP</translation>
+		</message>
+		<message>
+			<source>See the online documentation for SoapHeader class</source>
+			<translation>Voir la documentation en ligne de la classe SoapHeader</translation>
+		</message>
+		<message>
+			<source>http://php.net/manual/en/soapheader.soapheader.php</source>
+			<translation>http://php.net/manual/fr/soapheader.soapheader.php</translation>
+		</message>
+		<message>
+			<source>A SOAP header's content. It can be a PHP value or a SoapVar object</source>
+			<translation>Un contenu de l'en-tête SOAP. Il peut être une valeur PHP ou un objet SoapVar</translation>
+		</message>
+		<message>
+			<source>Loading object parameters</source>
+			<translation>Chargement en cours des paramètres de l'objet</translation>
+		</message>
+		<message>
+			<source>Populate Data with</source>
+			<translation>Alimenter le Contenu avec</translation>
+		</message>
+		<message>
+			<source>nothing</source>
+			<translation>rien</translation>
+		</message>
+		<message>
+			<source>an array of values</source>
+			<translation>un tableau de valeurs</translation>
+		</message>
+		<message>
+			<source>a string</source>
+			<translation>une chaîne de caractères</translation>
+		</message>
+		<message>
+			<source>an object of the package</source>
+			<translation>un objet de la librairie</translation>
+		</message>
+		<message>
+			<source>a %1 object</source>
+			<translation>un objet %1</translation>
+		</message>
+		<message>
+			<source>Sorry but this type of Data is not yet implemented but soon.</source>
+			<translation>Désolé mais ce type de Contenu n'est pas encore implémenté mais le sera bientôt.</translation>
+		</message>
+		<message>
+			<source>Calls limit reached</source>
+			<translation>Limite du nombre d'appels atteinte</translation>
+		</message>
+		<message>
+			<source>PHP Doc limit reached</source>
+			<translation>Limite du nombre de documentations PHP</translation>
+		</message>
+		<message>
+			<source>You've reached the maximum limit of calls available.__linebreak__Indeed, your account type allows you to run usage_limit calls per consecutive periodicity hour(s).__linebreak__If you wish to run more calls, please consider upgrading your account from your account dashboard (My account -> Account information -> Type).__linebreak__Otherwise, you'll have to wait until the limitation is over: next_time.</source>
+			<translation>Vous avez atteint la limite maximum d'appel autorisée.__linebreak__En effet, votre compte vous permet de réaliser usage_limit appels durant periodicity heure(s) consécutives.__linebreak__Si vous souhaitez exécuter davantage d'appel, merci de considérer à changer de type de compte depuis votre tableau de bord (Mon compte -> Informations du compte -> Type).__linebreak__Sinon, vous devez attendre jusqu'au renouvellement de la limite : next_time.</translation>
+		</message>
+		<message>
+			<source>You've reached the maximum limit of packages generated.__linebreak__Indeed, your account type allows you to generate privacy_limit package(s) at all.__linebreak__If you wish to generate more packages, please consider upgrading your account from your account dashboard (My account -> Account information -> Type).</source>
+			<translation>Vous avez atteint la limite maximum de génération de librairies.__linebreak__En effet, votre compte vous permet de générer en mode privé privacy_limit librairie(s) en tout.__linebreak__Si vous souhaitez générer plus de librairies, merci de considérer à changer de type de compte depuis votre tableau de bord (Mon compte -> Informations du compte -> Type).</translation>
+		</message>
+		<message>
+			<source>Execution is only available for your own packages.__linebreak__In order to do that, you first need to create an account and to login with.__linebreak__Then you just have to generate a package from the homepage and you'll be abble to execute this generated package.</source>
+			<translation>L'exécution ne peut uniquement être utilisée que pour vos propres librairies.__linebreak__Afin de pouvoir effectuer cette action, vous devez tout d'abord créer un compte et vous connecter avec.__linebreak__Ensuite, vous devez simplement générer une librairie à partir de la page d'accueil et vous serez alors à même d'exécuter cette librairie générée.</translation>
+		</message>
+		<message>
+			<source>Execute your own package by </source>
+			<translation>Exécutez votre propre librairie en </translation>
+		</message>
+		<message>
+			<source>This package does not belong to you so you can't execute it. Nevertheless you can do it for your </source>
+			<translation>Cette librairie ne vous appartient pas de ce fait vous ne pouvez l'exécuter. Cependant, vous pouvez le faire pour vos </translation>
+		</message>
+		<message>
+			<source>Your package doesn't contain any available Service class so you can't call any operation. Check your WSDL and the generated package by the "Browse Package" tab.</source>
+			<translation>Votre librairie ne contient aucun Service dispnible ce qui ne permet pas d'appeler une seule opération. Vérifiez votre WSDL ainsi que la librairie générée par l'onglet "Parcourir la librairie"</translation>
+		</message>
+		<message>
+			<source>In order to execute package in good conditions, you have to enable the *WsdlClass class generation otherwise we won't be able to provide you a controlled and secured execution environment.</source>
+			<translation>Afin d'exécuter une librairie dans de bonne conditions, vous devez activer la génération de la classe *WsdlClass sinon nous ne serons pas en mesure de vous fournir un environnement d'exécution contrôlé et sécurisé.</translation>
+		</message>
+		<message>
+			<source>The *ClassMap class is need to use the powerfull of this system. If you don't generate this class, calls won't be available because we won't be able to provide you a controlled and secured execution environment.</source>
+			<translation>La classe *ClassMap est nécessaire pour utiliser la puissance de ce système. Si vous ne générez pas cette classe, les appels ne seront pas dispnibles car nous ne serons pas en mesure de vous fournir un environnement d'exécution contrôlé et sécurisé.</translation>
+		</message>
+		<message>
+			<source>In order to execute the package, you have to enable the generation of the Autoload.php file otherwise we won't be able to provide you a controlled and secured execution environment.</source>
+			<translation>Afin d'exécuter la librairie, vous devez activer la génération du fichier Autoload.php sinon nous ne serons pas en mesure de vous fournir un environnement d'exécution contrôlé et sécurisé.</translation>
+		</message>
+		<message>
+			<source>An error occurred while requesting the server. We've been informed of this failure and we'll get back to you very soon. In the meantime, please use another operation or send us a message if you can't wait.</source>
+			<translation>Une erreur s'est produite lors de la requête au serveur. Nous avons été informé de cette erreur et nous reviendrons vers vous très rapidement. En attendant, merci d'utiliser une autre opération ou envoyez-nous un message si vous ne pouvez pas attendre.</translation>
+		</message>
+		<message>
+			<source>An unexpected error occurred, we have been informed instantly. We'll be back to you as soon as possible. Sorry for this incovenient.</source>
+			<translation>Une erreur innatendue s'est produite, nous en avons été informé instantanément. Nous reviendrons vers vous le plus rapidement possible. Excusez-nous pour cet inconvénient.</translation>
+		</message>
+		<message>
+			<source>Reload method definition</source>
+			<translation>Recharger la définition de la méthode</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>design/privacy</name>
+		<message>
+			<source>These WSDL below are only yours. They are not visible by any other user.</source>
+			<translation>Les WSDL ci-dessous sont seulement les vôtres. Ils ne sont visibles par aucun autre utilisateur.</translation>
+		</message>
+		<message>
+			<source>This element is private and only visible by you.</source>
+			<translation>Cet élément est privé et uniquement visible par vous.</translation>
+		</message>
+		<message>
+			<source>Your own %1</source>
+			<translation>Vos propres %1</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>kernel/workflow/event</name>
+		<message>
+			<source>Md Publish Content</source>
+			<translation>Md Publication de Contenu</translation>
+		</message>
+		<!-- <message> <source></source> <translation></translation> </message> -->
+	</context>
+	<context>
+		<name>design/pricing</name>
+		<message>
+			<source>In order to answer fully to your needs, we'll need to analyze them with you by email or by calling you.</source>
+			<translation>Afin de répondre complétement à vos besoins, nous devrons vous contacter par email ou téléphone.</translation>
+		</message>
+		<message>
+			<source>Login or create a free account now!</source>
+			<translation>Se connecter ou créer un&lt;br /&gt;compte gratuit dès maintenant !</translation>
+		</message>
+		<message>
+			<source>Upgrade my existing account</source>
+			<translation>Mettre à jour mon type de compte</translation>
+		</message>
+		<message>
+			<source>Subscribe</source>
+			<translation>S'inscrire</translation>
+		</message>
+		<message>
+			<source>Call us or email us</source>
+			<translation>Appelez-nous ou&lt;br /&gt;envoyez-nous un email</translation>
+		</message>
+		<message>
+			<source>&lt;em&gt;Not yet implemented&lt;/em&gt;</source>
+			<translation>&lt;em&gt;Pas encore en place&lt;/em&gt;</translation>
+		</message>
+		<message>
+			<source>&lt;em&gt;To be defined&lt;/em&gt;</source>
+			<translation>&lt;em&gt;A definir&lt;/em&gt;</translation>
+		</message>
+		<message>
+			<source>&lt;em&gt;Not yet implemented&lt;/em&gt;</source>
+			<translation>&lt;em&gt;Pas encore en place&lt;/em&gt;</translation>
+		</message>
+		<message>
+			<source>&lt;strong&gt;Unlimited!&lt;/strong&gt;</source>
+			<translation>&lt;strong&gt;Illimité !&lt;/strong&gt;</translation>
+		</message>
+		<message>
+			<source>&lt;strong&gt;None&lt;/strong&gt;</source>
+			<translation>&lt;strong&gt;Aucun !&lt;/strong&gt;</translation>
+		</message>
+		<message>
+			<source>%1 call(s) per 24 hours</source>
+			<translation>%1 appel(s) par 24 heures</translation>
+		</message>
+		<message>
+			<source>%1 package(s) per month</source>
+			<translation>%1 librairie(s) par mois</translation>
+		</message>
+		<message>
+			<source>%1 same subject conversation(s) per consecutive 24 hours</source>
+			<translation>%1 conversation(s) de même sujet par 24 heures consécutives</translation>
+		</message>
+		<message>
+			<source>%1 generation(s) per month</source>
+			<translation>%1 génération(s) par mois</translation>
+		</message>
+		<message>
+			<source>%1€ per hour</source>
+			<translation>%1€ par heure</translation>
+		</message>
+		<message>
+			<source>-</source>
+			<translation>-</translation>
+		</message>
+		<message>
+			<source>Free</source>
+			<translation>Gratuit</translation>
+		</message>
+		<message>
+			<source>50€/month</source>
+			<translation>50€/mois</translation>
+		</message>
+		<message>
+			<source>100€/month</source>
+			<translation>100€/mois</translation>
+		</message>
+		<message>
+			<source>Contact us</source>
+			<translation>Contactez-nous</translation>
+		</message>
+		<message>
+			<source>Monthly plans and Account types</source>
+			<translation>Abonnements mensuels et Types de compte</translation>
+		</message>
+		<message>
+			<source>The features</source>
+			<translation>Les fonctionnalités</translation>
+		</message>
+		<message>
+			<source>call(s)</source>
+			<translation>appel(s)</translation>
+		</message>
+		<message>
+			<source>subject(s)</source>
+			<translation>sujet(s)</translation>
+		</message>
+		<message>
+			<source>phpdoc generation(s)</source>
+			<translation>génération(s) de phpdoc</translation>
+		</message>
+		<message>
+			<source>package(s)</source>
+			<translation>librairie(s)</translation>
+		</message>
+		<message>
+			<source>Feature</source>
+			<translation>Fonctionnnalité</translation>
+		</message>
+		<message>
+			<source>What you can do on WSDL to php:</source>
+			<translation>Ce que vous pouvez faire sur WSDL à php :</translation>
+		</message>
+		<message>
+			<source>Unit quantity</source>
+			<translation>Quantité à l'unité</translation>
+		</message>
+		<message>
+			<source>Unit price</source>
+			<translation>Prix unitaire</translation>
+		</message>
+		<message>
+			<source>Units</source>
+			<translation>Unités</translation>
+		</message>
+		<message>
+			<source>Credits</source>
+			<translation>Crédits</translation>
+		</message>
+		<message>
+			<source>Amount</source>
+			<translation>Montant</translation>
+		</message>
+		<message>
+			<source>Total amount</source>
+			<translation>Montant total</translation>
+		</message>
+		<message>
+			<source>Purchase credits</source>
+			<translation>Acheter les crédits</translation>
+		</message>
+		<message>
+			<source>Login to purchase</source>
+			<translation>Se connecter pour acheter</translation>
+		</message>
+		<message>
+			<source>Create an account to purchase</source>
+			<translation>Créer un compte pour acheter</translation>
+		</message>
+		<message>
+			<source>Select</source>
+			<translation>Sélectionner</translation>
+		</message>
+		<message>
+			<source>What you need to know about monthly plans and account types:</source>
+			<translation>Ce que vous devez savoir à propos des abonnements mensuels et des types de compte :</translation>
+		</message>
+		<message>
+			<source>We believe in testing. So you need to susbscribe to a Free account before using any another account type. You make your own opinion before going further.</source>
+			<translation>Nous croyons aux tests. Vous devez créer un compte Gratuit avant de pouvoir utiliser un autre type de compte. Vous vous faites votre propre opinion avant d'aller plus loin.</translation>
+		</message>
+		<message>
+			<source>You can use the Free account type and purchase as many credits as you need if none of the other account type fits you needs.</source>
+			<translation>Vous pouvez utiliser un compte Gratuit et acheter autant de crédits qu'il vous plait si aucun des autres compte ne vous convient.</translation>
+		</message>
+		<message>
+			<source>Credits per account type may be modified in the time but you will always be informed of that before it's modified.</source>
+			<translation>Les crédits par compte sont suceptible d'être modifiés avec le temps mais vous en serez toujours informés avant que cela soit modifié.</translation>
+		</message>
+		<message>
+			<source>New features may be added in the time. You will be informed of their utility and credits as soon as they are available.</source>
+			<translation>De nouvelles fonctionnalités pourront être ajoutées dans le temps. Vous serez alors informés de leut utilité et des crédits associés dès leur disponibilité.</translation>
+		</message>
+		<message>
+			<source>Updating your account type is pretty quick and is done as soon as your payment is confirmed.</source>
+			<translation>La mise à jour du compte est très rapide et est effective dès la validation de votre paiement.</translation>
+		</message>
+		<message>
+			<source>When you update your account type, your purchased credits remain available.</source>
+			<translation>Lorsque vous mettez à jour votre compte, les crédits achetés restent intouchés et disponibles.</translation>
+		</message>
+		<message>
+			<source>You pay for the current month and you pay each month at its beginning.</source>
+			<translation>Vous payez pour le mois en cours et vous payez chaque début mois.</translation>
+		</message>
+		<message>
+			<source>What you need to know about purchasing credits:</source>
+			<translation>Ce que vous devez savoir à propos de l'achat de crédits :</translation>
+		</message>
+		<message>
+			<source>You need to create an account to be able to puchase credits.</source>
+			<translation>Vous devez créer un compte pour pouvoir achter des crédits.</translation>
+		</message>
+		<message>
+			<source>As soon as your payment is confirmed, you get the credits ready to be used.</source>
+			<translation>Dès que vous paiement est validé, vous disposez des crédits prêts à être utilisés.</translation>
+		</message>
+		<message>
+			<source>Purchased credits are distinct from your account credits and used before your account credits.</source>
+			<translation>Les crédits achetés sont distingués des crédits associés à votre compte et sont utilisés en premier.</translation>
+		</message>
+		<message>
+			<source>Purchased credits are 30-days valid from the day you purchase them.</source>
+			<translation>Les crédits achetés sont valides 30 jours à compter de la date d'achat.</translation>
+		</message>
+		<message>
+			<source>If you don't use your purchased credits before the end of the 30 days, they'll be unusable. The system then automatically uses your account credits.</source>
+			<translation>Le crédits non utilisés dans les 30 jours suivant l'achat sont alors inutilisables. Le système utilise alors automatiquement les crédits associés à votre compte.</translation>
+		</message>
+		<message>
+			<source>Unused purchased credits are never lost! You simply have to purchase new credits, no bottom limit, so they will be avaible again filled up with the new credits.</source>
+			<translation>Les crédits achetés inutilisées ne sont jamais perdus ! Vous pouvez simplement les réactiver en achetant de nouveaux crédits, sans quantité minimum nécessaire.</translation>
+		</message>
+		<message>
+			<source>You can purchase as many credits as you want, it's free to go!</source>
+			<translation>Vous pouvez acheter autant de crédits que vous le souhaitez, c'est libre d'accès !</translation>
+		</message>
+		<message>
+			<source>Purchased credits are subject to the limitations when there are limitations (ex: calls per period).</source>
+			<translation>Les crédits achetés sont soumis auux limitations en vigueur (ex : nombres d'appels par période).</translation>
+		</message>
+		<message>
+			<source>You must edit your personal informations before being able to subscribe to a new account.</source>
+			<translation>Vous devez mettre à jour vos informations personnelles avant de pouvoir souscrire à un nouveau type de compte.</translation>
+		</message>
+		<message>
+			<source>In order to edit your personal informations, please go to "My account -> Profile tab", then click "Edit".</source>
+			<translation>Afin de mettre à jour vos informations personnes, rendez-vous dans "Mon compte -> Onglet Profil", puis cliquer sur "Editer".</translation>
+		</message>
+		<message>
+			<source>You must edit your personal informations before being able to purchase credits.</source>
+			<translation>Vous devez mettre à jour vos informations personnelles avant de pouvoir acheter des crédits.</translation>
+		</message>
+		<message>
+			<source>Coming next</source>
+			<translation>A venir</translation>
+		</message>
+		<message>
+			<source>Get help to develop</source>
+			<translation>Obtenez de l'aide pour le développement</translation>
+		</message>
+		<message>
+			<source>To be able to buy credits, you first must be logged in.</source>
+			<translation>Pour pouvoir acheter des crédits, vous devez auparavant être connecté.</translation>
+		</message>
+	</context>
+	<context>
+		<name>design/phpdoc</name>
+		<message>
+			<source>PHP Doc can only be generated for your own packages.__linebreak__In order to do that, you first need to create an account and to login with.__linebreak__Then you just have to generate a package from the homepage and you'll be abble to read the PHP doc for this generated package.</source>
+			<translation>La documentation PHP ne peut uniquement être générée que pour vos propres librairies.__linebreak__Afin de pouvoir effectuer cette action, vous devez tout d'abord créer un compte et vous connecter avec.__linebreak__Ensuite, vous devez simplement générer une librairie à partir de la page d'accueil et vous serez alors à même de lire la documentation PHP pour cette librairie générée.</translation>
+		</message>
+		<message>
+			<source>Generate your own PHP documentation by </source>
+			<translation>Générer votre propre documentation PHP en </translation>
+		</message>
+		<message>
+			<source>This package does not belong to you so you can't generate the PHP documentation for it. Nevertheless you can do it for your </source>
+			<translation>Cette librairie ne vous appartient pas de ce fait vous ne pouvez générer sa documentation PHP. Cependant, vous pouvez le faire pour vos </translation>
+		</message>
+		<message>
+			<source>The PHP Documentation is not yet generated and can be generated.</source>
+			<translation>La documentation PHP n'est pas encore générée et peut être lancée.</translation>
+		</message>
+		<message>
+			<source>You should know that this option is limited according to your account type.</source>
+			<translation>Vous devez savoir que cette option est limitée en accord avec votre type de compte.</translation>
+		</message>
+		<message>
+			<source>The PHP doc generation time depends on the number of files contained by the package and their complexity.</source>
+			<translation>Le temps de génération de la documentation PHP dépend du nombre de fichiers contenus par la librairie et de leur complexité.</translation>
+		</message>
+		<message>
+			<source>Due to these specifications, the PHP documentation is generated by an automated task activated as soon as you validate the generation.</source>
+			<translation>Du fait de ces spécificités, la documentation PHP est générée par une tâche automatisée activée dès que vous en validez la génération.</translation>
+		</message>
+		<message>
+			<source>After you validate the PHP documentation generation, you'll receive an email as soon as the PHP documentation generation has ended successfully.</source>
+			<translation>Après que vous ayez validé la génération de la documentation PHP, vous recevrez un email dès que la génération de la documentation PHP se sera terminée avec succès.</translation>
+		</message>
+		<message>
+			<source>The email you'll receive will contain the direct link to this PHP documentation. You'll need to be logged in to be able to have access to it.</source>
+			<translation>L'email que vous recevrez contiendra un lien direct vers cette documentation PHP. Vous devrez alors être connecté pour y avoir accès.</translation>
+		</message>
+		<message>
+			<source>Now that you know how it works, you just have to click the button "Generate!" and wait for the email.</source>
+			<translation>Maintenant que vous savez comment cela fonctionne, vous avez juste à cliquer sur le bouton "Generer !" et attendre l'email.</translation>
+		</message>
+		<message>
+			<source>You already use all the credit for the generation. If you wish to generate more PHP documentaion, please update your account.</source>
+			<translation>Vous avez d'ores et déjà utilisé le crédit pour la génération. Si vous souhaitez générer davantage de documentation PHP, pensez à mettre à jour votre type de compte.</translation>
+		</message>
+		<message>
+			<source>You have one pending PHP documentation generation. Until the documentation has been generated, you'll have to wait before being able to generate another PHP doc.</source>
+			<translation>Vous avez une génération de documentation PHP en attente. Tant que la documentation PHP n'a pas été génerée, vous devez attendre avant de pouvoir générer une autre documentation PHP.</translation>
+		</message>
+		<message>
+			<source>The generation of the PHP documentation is going to start very soon.</source>
+			<translation>La génération de la documentation PHP va bientôt débuter.</translation>
+		</message>
+		<message>
+			<source>You requested to generate a PHP documentation for a package and it just ended well.</source>
+			<translation>Vous avez demandé de générer la documentation PHP pour une librairie et cela vient juste de se terminer correctement.</translation>
+		</message>
+		<message>
+			<source>The "%1" PHP Doc</source>
+			<translation>La doc PHP de "%1"</translation>
+		</message>
+		<message>
+			<source>Your package PHP doc is accessible following this link: </source>
+			<translation>La documentation PHP de votre librairie est accessible en suivant le lien : </translation>
+		</message>
+		<message>
+			<source>Generate!</source>
+			<translation>Générer !</translation>
+		</message>
+		<message>
+			<source>An error occurred during the process. Our team has been informed and will keep you inform as soon as it is fixed. Please forgive us for this delay.</source>
+			<translation>Une erreur s'est produite lors de l'exécution. Notre équipe en a été informé et vous tiendra au courant dès que cela sera corrigé. Pardonnez-nous pour ce contre-temps.</translation>
+		</message>
+		<message>
+			<source>You've reached the maximum limit of PHP Documentation generated.__linebreak__Indeed, your account type allows you to generate usage_limit PHP Documentation(s) at all.__linebreak__If you wish to generate more PHP Documentations, please consider upgrading your account from your account dashboard (My account -> Account information -> Type).</source>
+			<translation>Vous avez atteint la limite maximum de génération de documentation PHP.__linebreak__En effet, votre compte vous permet de générer usage_limit documentaion(s) PHP en tout.__linebreak__Si vous souhaitez générer davantage documentation PHP, merci de considérer à changer de type de compte depuis votre tableau de bord (Mon compte -> Informations du compte -> Type).</translation>
+		</message>
+		<message>
+			<source>As soon as the PHP documentation is generated, you'll receive an email on your email address email_address.</source>
+			<translation>Dès que la documentation PHP sera générée, vous recevrez un email sur votre adresse email email_address.</translation>
+		</message>
+		<message>
+			<source>Hello %1,</source>
+			<translation>Bonjour %1,</translation>
+		</message>
+	</context>
+	<context>
+		<name>design/upgrade</name>
+		<message>
+			<source>[Upgrade] I would like to subscribe to an On demand account type</source>
+			<translation>[Upgrade] Je souhaite souscrire un compte type Sur mesure</translation>
+		</message>
+		<message>
+			<source>Hi,__linebreak__I would like to use this type of account: %1.__linebreak__My goal is to ..........__linebreak__Contact me soon,__linebreak__Best regards.</source>
+			<translation>Bonjour,__linebreak__Je souhaiterai utiliser ce type de compte : %1__linebreak__Mon but est de ..........__linebreak__Contactez-moi rapidement,__linebreak__Cordialement</translation>
+		</message>
+		<message>
+			<source>Tell us what you want to do</source>
+			<translation>Dites-nous ce que vous souhaitez faire</translation>
+		</message>
+		<message>
+			<source>We're working hard to provide you good features that can work 24 hours/24, 365 days/365 so help us understand your needs in order to ensure the continuity of this service.</source>
+			<translation>Nous travaillons dur pour vous fournir des supers fonctionnnalités répondant 24 heures/24, 365 jours/365 alors aidez-nous à comprendre votre besoin pour s'assurer de la continuité de ce service.</translation>
+		</message>
+		<message>
+			<source>Indeed, our goal is to provide equal service quality to any account type even if people don't need to pay. If you want to use hardly the platform, we need to know your purpose and we need to adapt the platform if it needs to. So please, contact us following the link below:</source>
+			<translation>Effectivement, notre but est de fournir un service de qualité égal à tous les types de compte même si les gens n'ont pas a payer. Si vous souhaitez utiliser la plateforme de manière intense, nous devons connaître votre but afin de l'adapter si nécessaire. Merci de nous contacter en utilisant le lien suivant :</translation>
+		</message>
+		<message>
+			<source>Use the prefilled contact form to contact us.</source>
+			<translation>Utilisez le formulaire prérempli pour nous contacter.</translation>
+		</message>
+		<message>
+			<source>Thank you for your interest and be sure we'll get back to you soon!</source>
+			<translation>Merci pour votre intérêt et soyez assurés que nous reviendrons vers vous très rapidement !</translation>
+		</message>
+		<message>
+			<source>Update my account</source>
+			<translation>Mettre à jour mon compte</translation>
+		</message>
+		<message>
+			<source>Go back</source>
+			<translation>Revenir en arrière</translation>
+		</message>
+		<message>
+			<source>Your actual account type usage limits</source>
+			<translation>Les limites d'utilisation de votre type de compte actuel</translation>
+		</message>
+		<message>
+			<source>The selected account type usage limits</source>
+			<translation>Les limites d'utilisation du type de compte sélectionné</translation>
+		</message>
+		<message>
+			<source>You're going to update your account type</source>
+			<translation>Vous êtes sur le point de mettre à jour votre type de compte</translation>
+		</message>
+		<message>
+			<source>Updating your account type is going to change your usage limits. You must know that subscribing an account type means you accept to be charged monthly of fix fees detailed below.</source>
+			<translation>La mise à jour de votre type de compte va changer vos limites d'utilisation. Vous devez savoir que souscrire un type de compte signifie que vous serez prélevé mensuellement d'un montant fixe détaillé ci-dessous.</translation>
+		</message>
+		<message>
+			<source>Actual price:</source>
+			<translation>Prix actuel :</translation>
+		</message>
+		<message>
+			<source>New price:</source>
+			<translation>Nouveau prix :</translation>
+		</message>
+	</context>
+	<context>
+		<name>design/billing</name>
+		<message>
+			<source>Month</source>
+			<translation>Mois</translation>
+		</message>
+		<message>
+			<source>Amount</source>
+			<translation>Montant</translation>
+		</message>
+		<message>
+			<source>Title</source>
+			<translation>Intitulé</translation>
+		</message>
+		<message>
+			<source>Status</source>
+			<translation>Statut</translation>
+		</message>
+		<message>
+			<source>You don't have any bill yet, good for you!</source>
+			<translation>Vous n'avez encore aucune facture, quelle chance pour vous !</translation>
+		</message>
+		<message>
+			<source>Load older invoices</source>
+			<translation>Charger des factures plus anciennes</translation>
+		</message>
+		<message>
+			<source>Pay online with PayPal</source>
+			<translation>Payer en ligne avec PayPal</translation>
+		</message>
+		<message>
+			<source>Unpaid</source>
+			<translation>Non payée</translation>
+		</message>
+		<message>
+			<source>PayPal paid</source>
+			<translation>Réglée avec PayPal</translation>
+		</message>
+		<message>
+			<source>Check paid</source>
+			<translation>Réglée par chèque</translation>
+		</message>
+		<message>
+			<source>Unknown status</source>
+			<translation>Status inconnu</translation>
+		</message>
+		<message>
+			<source>No payment required</source>
+			<translation>Paiement non requis</translation>
+		</message>
+		<message>
+			<source>Cancelled</source>
+			<translation>Annulée</translation>
+		</message>
+		<message>
+			<source>PayPal pending review</source>
+			<translation>En attente de la validation PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal cancel reversal</source>
+			<translation>Annulation du renversement par PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal completed but funds pending hold</source>
+			<translation>Confirmé par PayPal mais les fonds sont en attente</translation>
+		</message>
+		<message>
+			<source>PayPal created</source>
+			<translation>Créé sur PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal delayed</source>
+			<translation>Retardé par PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal denied</source>
+			<translation>Refusé par PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal expired</source>
+			<translation>Expiré sur PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal failed</source>
+			<translation>Echoué sur PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal in progress</source>
+			<translation>En progression sur PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal instant</source>
+			<translation>En instance sur PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal none</source>
+			<translation>Aucune information PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal partially refunded</source>
+			<translation>Partiellement remboursée sur PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal processed</source>
+			<translation>Prise en charge par PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal refunded</source>
+			<translation>Remboursée par PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal reversed</source>
+			<translation>Renversée par PayPal</translation>
+		</message>
+		<message>
+			<source>PayPal voided</source>
+			<translation>Vide sur PayPal</translation>
+		</message>
+		<message>
+			<source> the </source>
+			<translation> le </translation>
+		</message>
+		<message>
+			<source>View invoice in PDF format</source>
+			<translation>Voir la facture au format PDF</translation>
+		</message>
+		<message>
+			<source>View invoice in HTML format</source>
+			<translation>Voir la facture au format HTML</translation>
+		</message>
+		<message>
+			<source>https://www.paypal.com/en_US/i/btn/btn_xpressCheckout.gif</source>
+			<translation>https://www.paypal.com/fr_FR/i/btn/btn_xpressCheckout.gif</translation>
+		</message>
+		<message>
+			<source>Checkout with PayPal</source>
+			<translation>Régler avec PayPal</translation>
+		</message>
+		<message>
+			<source>Pay by PayPal</source>
+			<translation>Payer par PayPal</translation>
+		</message>
+		<message>
+			<source>Initiating transaction</source>
+			<translation>Initialisation de la transaction</translation>
+		</message>
+		<message>
+			<source>Validate your PayPal transaction</source>
+			<translation>Valider la transaction PayPal</translation>
+		</message>
+		<message>
+			<source>Please check the following informations in order to validate the transaction :</source>
+			<translation>Merci de vérifier les informations suivantes afin de valider la transaction :</translation>
+		</message>
+		<message>
+			<source>Personal informations</source>
+			<translation>Informations personnelles</translation>
+		</message>
+		<message>
+			<source>Your Email:</source>
+			<translation>Votre adresse email :</translation>
+		</message>
+		<message>
+			<source>Your full name:</source>
+			<translation>Votre nom complet :</translation>
+		</message>
+		<message>
+			<source>Transaction informations</source>
+			<translation>Informations de la transaction</translation>
+		</message>
+		<message>
+			<source>Description:</source>
+			<translation>Description :</translation>
+		</message>
+		<message>
+			<source>Amount:</source>
+			<translation>Montant :</translation>
+		</message>
+		<message>
+			<source>Your note:</source>
+			<translation>Votre note :</translation>
+		</message>
+		<message>
+			<source>Validate transaction</source>
+			<translation>Valider la transaction</translation>
+		</message>
+		<message>
+			<source>Cancel transaction</source>
+			<translation>Annuler la transaction</translation>
+		</message>
+		<message>
+			<source>An error occurred during initiating the PayPal transaction. We've been informed and we'll be back to you very soon to solve this issue.</source>
+			<translation>Une erreur est survenue durant l'initialisation de la transaction PayPal. Nous en avons été informé et nous reviendrons vers vous très rapidement afin de résoudre cet incident.</translation>
+		</message>
+		<message>
+			<source>An error occurred during getting your transaction details</source>
+			<translation>Une erreur est survenue lors de la récupération de la information de la transaction</translation>
+		</message>
+		<message>
+			<source>We've been informed and we'll be back to you very soon to solve this issue.</source>
+			<translation>Nous en avons été informé et nous reviendrons vers vous très rapidement afin de résoudre cet incident.</translation>
+		</message>
+		<message>
+			<source>Monthly invoice</source>
+			<translation>Facture mensuelle</translation>
+		</message>
+		<message>
+			<source>Free account type</source>
+			<translation>Type de compte Gratuit</translation>
+		</message>
+		<message>
+			<source>Advanced account type</source>
+			<translation>Type de compte avancé</translation>
+		</message>
+		<message>
+			<source>Premium account type</source>
+			<translation>Type de compte Premium</translation>
+		</message>
+		<message>
+			<source>On demand account type</source>
+			<translation>Type de compte Sur mesure</translation>
+		</message>
+		<message>
+			<source>Your monthly invoice for %1</source>
+			<translation>Votre facture mensuelle pour %1</translation>
+		</message>
+		<message>
+			<source>Hello %1,</source>
+			<translation>Bonjour %1,</translation>
+		</message>
+		<message>
+			<source>The monthly invoice was generated for the coming month. This invoice also includes your last month's credit usage in order for you to know how much credits you have used.</source>
+			<translation>La facture mensuelle a été générée pour le mois à venir. Cette facture inclut votre utilisation mensuelle du mois dernier afin de connaitre combien de crédits vous avez utilisé.</translation>
+		</message>
+		<message>
+			<source>You can directly pay your invoice from the invoices dashboard </source>
+			<translation>Vous pouvez payer votre facture directement depuis le tableau de bord des factures </translation>
+		</message>
+		<message>
+			<source>We may remind you that you have 15 days to pay your invoice. Passing this delay, all usage of our interface will be suspended until until payment of the invoicee.</source>
+			<translation>Nous vous rappelons que vous avez 15 jours pour régler votre facture. Passé ce délai, toute utilisation sera suspendue jusqu'au réglement de votre facture.</translation>
+		</message>
+		<message>
+			<source>If you subscribed using PayPal, then the payment is automatic so you don't have to do anything!</source>
+			<translation>Si vous avez souscris en utilisant PayPal, alors le paiement est automatique et vous n'avez donc rien à faire !</translation>
+		</message>
+		<message>
+			<source>The WsdlToPhp Crew</source>
+			<translation>L'Équipe WsdlToPhp</translation>
+		</message>
+		<message>
+			<source>Purchase credit</source>
+			<translation>Achat de crédit</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment has been completed</source>
+			<translation>Votre paiement PayPal a été confirmé</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment is pending approval</source>
+			<translation>Votre paiement PayPal est en attente de confirmation</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment is now completed so your purchase entitled "%1" has been validated.</source>
+			<translation>Votre paiement PayPal est maintenant confirmé, de ce fait votre achat intitulé "%1" a été validé.</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment has been validated but is pending as PayPal asked for it before being approved. It should only take an hour to be treated.</source>
+			<translation>Votre paiement PayPal a été validé mais reste en attente de confirmation comme nous l'a demandé PayPal. Cela ne devrait pas prendre plus d'une heure pour être traité.</translation>
+		</message>
+		<message>
+			<source>As soon as your PayPal payment is confirmed, you will receive a new email to inform you that your purchase has been validated.</source>
+			<translation>Dès que votre paiement PayPal est confirmé, vous recevrez un mail vous informant que votre achat a été validé.</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment has beend denied</source>
+			<translation>Votre paiement PayPal a été refusé</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment has been has been denied by PayPal so your purchase can't be validated.</source>
+			<translation>Votre paiement PayPal a été refusé par PayPal, de ce fait, votre achat ne peut être validé.</translation>
+		</message>
+		<message>
+			<source>We recommand you check your bank account.</source>
+			<translation>Nous vous recommandonc de vérifier votre compte bancaire.</translation>
+		</message>
+		<message>
+			<source>Your PayPal payment has failed</source>
+			<translation>Votre paiement PayPal a échoué</translation>
+		</message>
+		<message>
+			<source>Your PayPal has failed. This happens only if the payment was made from your customer's bank account.</source>
+			<translation>Votre paiement PayPal a échoué. Cela se produit seulement si vous avez effectué un paiement depuis votre compte bancaire.</translation>
+		</message>
+		<message>
+			<source>In this case your purchase can't be validated. Please try again or contact your bank.</source>
+			<translation>Dans ce cas, votre achaht ne peut être validé. Merci de réessayer ou de contacter votre banque.</translation>
+		</message>
+		<message>
+			<source>Invoice</source>
+			<translation>Facture</translation>
+		</message>
+		<message>
+			<source>Proforma Invoice</source>
+			<translation>Facture pro-format</translation>
+		</message>
+		<message>
+			<source>Purchase date</source>
+			<translation>Date d'achat</translation>
+		</message>
+		<message>
+			<source>Customer</source>
+			<translation>Client</translation>
+		</message>
+		<message>
+			<source>Object:</source>
+			<translation>Objet :</translation>
+		</message>
+		<message>
+			<source>PayPal transaction ID:</source>
+			<translation>ID de la transaction PayPal :</translation>
+		</message>
+		<message>
+			<source> on </source>
+			<translation> le </translation>
+		</message>
+		<message>
+			<source> validated on </source>
+			<translation> validé le </translation>
+		</message>
+		<message>
+			<source>By Check:</source>
+			<translation>Par chèque :</translation>
+		</message>
+		<message>
+			<source>By PayPal to:</source>
+			<translation>Par PayPal à :</translation>
+		</message>
+		<message>
+			<source>By PayPal from your invoices dashboard</source>
+			<translation>Par PayPal depuis le tableau de bord de vos factures</translation>
+		</message>
+		<message>
+			<source>send by postal mail</source>
+			<translation>à envoyer par courrier postal</translation>
+		</message>
+		<message>
+			<source>Due on:</source>
+			<translation>Due au :</translation>
+		</message>
+		<message>
+			<source>Payment methods:</source>
+			<translation>Modes de paiements :</translation>
+		</message>
+		<message>
+			<source>(please provice the invoice number)</source>
+			<translation>(merci d'indiquer le numéro de la facture)</translation>
+		</message>
+		<message>
+			<source>By Transfer:</source>
+			<translation>Par virement bancaire :</translation>
+		</message>
+		<message>
+			<source>IBAN n°</source>
+			<translation>IBAN n°</translation>
+		</message>
+		<message>
+			<source>Reference</source>
+			<translation>Référence</translation>
+		</message>
+		<message>
+			<source>Description</source>
+			<translation>Description</translation>
+		</message>
+		<message>
+			<source>Unit price</source>
+			<translation>Prix unitaire</translation>
+		</message>
+		<message>
+			<source>Quantity</source>
+			<translation>Quantité</translation>
+		</message>
+		<message>
+			<source>Total</source>
+			<translation>Total</translation>
+		</message>
+		<message>
+			<source>VAT not applicable, art.293-B of the CGI</source>
+			<translation>TVA non applicable, art.293-B du CGI</translation>
+		</message>
+		<message>
+			<source>Penalties for late payment at the rate of: 5.00% - No discount for early payment</source>
+			<translation>Pénalités de retard au taux annuel de : 5.00 % - Pas d'escompte en cas de paiement anticipé</translation>
+		</message>
+		<message>
+			<source>Total fee</source>
+			<translation>Coût total</translation>
+		</message>
+		<message>
+			<source>Total for this invoice</source>
+			<translation>Montant total à payer</translation>
+		</message>
+		<message>
+			<source>Individual business - SIREN : 750016651</source>
+			<translation>Entreprise individuelle - SIREN : 750016651</translation>
+		</message>
+		<message>
+			<source>Subscribe to Free account type</source>
+			<translation>Souscription au compte de type Gratuit</translation>
+		</message>
+		<message>
+			<source>Subscribe to Advanced account type</source>
+			<translation>Souscription au compte de type Avancé</translation>
+		</message>
+		<message>
+			<source>Subscribe to Premium account type</source>
+			<translation>Souscription au compte de type Premium</translation>
+		</message>
+		<message>
+			<source>Validate account update</source>
+			<translation>Valider la mise à jour</translation>
+		</message>
+		<message>
+			<source>Validating the update</source>
+			<translation>Validation de la mise à jour</translation>
+		</message>
+		<message>
+			<source>An error occurred during the update. We've been informed and we'll be back to you very soon to solve this issue.</source>
+			<translation>Une erreur est survenur lors de la mise à jour. Nous en avons été informé et nous reviendrons vers vous très rapidement afin de résoudre cet incident.</translation>
+		</message>
+		<message>
+			<source>Your account has been updated successfully!</source>
+			<translation>Votre compte a été mis à jour avec succès !</translation>
+		</message>
+		<message>
+			<source>Recurring PayPal payment pending</source>
+			<translation>Paiement PayPal récurrent en attente</translation>
+		</message>
+		<message>
+			<source>Your monthly invoice is still pending payment. Indeed, your recurring PayPal payment has not been confirmed yet. It must be confirmed as soon as possible otherwise features won't be available anymore.</source>
+			<translation>Votre facture mensuelle est toujours en attente de paiment. En effet, votre paiment récurrent PayPal n'a pas encore été confirmé. Il doit être confirmé le plut tôt possible sinon les fonctionnalités ne seront plus disponibles.</translation>
+		</message>
+		<message>
+			<source>We're really sorry to anounce you that all your options have been disabled because it seems your monthly invoice has not been paid on time meaning it's been at least %1 days.</source>
+			<translation>Nous sommes sincérement désolés de vous annoncer que toutes vos options ont été désactivées car il semble que votre facture mensuelle n'ait pas été réglé à temps, c'est-à-dire depuis au moins % jours.</translation>
+		</message>
+		<message>
+			<source>You have to know that until the payment occurs, you won't be able to use any of the features included in your account type. However your credit purchases are still usable.</source>
+			<translation>Vous devez savoir que tant que votre paiement n'aura pas lieu, vous ne pourrez utiliser aucune fonctionnalité comprise avec votre type de compte. Cependant vos crédits achetés restent toujours utilisables.</translation>
+		</message>
+		<message>
+			<source>Please ensure your PayPal account balance is positive and is at least %amount&amp;euro;;.</source>
+			<translation>Merci de vous assurer que la balance de votre compte PayPal est positive et est au moins de %amount&amp;euro;;.</translation>
+		</message>
+		<message>
+			<source>Congratulations, your payment has been confirmed for your credit purchase.</source>
+			<translation>Félicitations, votre paiement a été confirmé pour l'achet de crédits.</translation>
+		</message>
+		<message>
+			<source>Your credits have been added instantly and can be visible in your </source>
+			<translation>Vos crédits ont été ajouté instantanément et peuvent être visualisés dans votre </translation>
+		</message>
+		<message>
+			<source>history usage</source>
+			<translation>historique d'utilisation</translation>
+		</message>
+		<message>
+			<source>Credits you just purchased allow you to:</source>
+			<translation>Les crédits que vous venez d'acheter vous permettent de :</translation>
+		</message>
+		<message>
+			<source>Congratulations, your payment has been confirmed for your monthly invoice.</source>
+			<translation>Féciliciations, votre paiement a été confirmé pour votre facture mensuelle.</translation>
+		</message>
+		<message>
+			<source>Congratulations, your payment has been confirmed and your account type has been updated instantly.</source>
+			<translation>Féciliciations, votre paiement a été confirmé et votre type de compte a été mis à jour instantanément.</translation>
+		</message>
+		<message>
+			<source>Your account limits have been updated instantly and can be visible in your </source>
+			<translation>Les limites de votre ont été mise à jour instantanément et peuvent être visualisées dans votre </translation>
+		</message>
+		<message>
+			<source>After the cancellation, this invoice won't be available anymore. Do you really wish to cancel this purchase?</source>
+			<translation>Après l'annulation, cette facture ne sera plus disponible. Voulez-vous vraiment annuler cet achat ?</translation>
+		</message>
+		<message>
+			<source>Cancel this purchase</source>
+			<translation>Annuler cet achat</translation>
+		</message>
+		<message>
+			<source>Your monthly payment is still pending</source>
+			<translation>Votre paiement mensuel est toujours en attente</translation>
+		</message>
+		<message>
+			<source>Your options have been disabled</source>
+			<translation>Votre options ont été désactivées</translation>
+		</message>
+		<message>
+			<source>Your monthly payment has been confirmed</source>
+			<translation>Votre paiement mensuelle a été confirmé</translation>
+		</message>
+		<message>
+			<source>Your monthly invoice is now paid thanks to the PayPal recurring payment.</source>
+			<translation>Votre facture mensuelle est dorénavant réglée grâce au paiement récurrent PayPal.</translation>
+		</message>
+		<message>
+			<source>You don't have to do anything and you can retrieve your invoice in the invoices dashboard </source>
+			<translation>Vous n'avez rien à faire et vous pouvez retrouver votre facture dans le tableau de bord des factures </translation>
+		</message>
+	</context>
+	<context>
+		<name>design/history</name>
+		<message>
+			<source>Select usage type to observe: </source>
+			<translation>Sélectionner l'utilisation à observer : </translation>
+		</message>
+		<message>
+			<source>Usage limit</source>
+			<translation>Limite d'utilisation</translation>
+		</message>
+		<message>
+			<source>Current usage</source>
+			<translation>Utilisation actuelle</translation>
+		</message>
+		<message>
+			<source>Remaining usage</source>
+			<translation>Utilisation restante</translation>
+		</message>
+		<message>
+			<source>First usage date</source>
+			<translation>Date de première utilisation</translation>
+		</message>
+		<message>
+			<source>Last usage</source>
+			<translation>Date de dernière utilisation</translation>
+		</message>
+		<message>
+			<source>Counting start date</source>
+			<translation>Date de début de comptabilisation</translation>
+		</message>
+		<message>
+			<source>Renewal date</source>
+			<translation>Date de renouvellement</translation>
+		</message>
+		<message>
+			<source>Load older history</source>
+			<translation>Charger l'historique plus ancien</translation>
+		</message>
+		<message>
+			<source>History</source>
+			<translation>Historique</translation>
+		</message>
+		<message>
+			<source>Calls</source>
+			<translation>Nombre d'appels</translation>
+		</message>
+		<message>
+			<source>Date</source>
+			<translation>Date</translation>
+		</message>
+		<message>
+			<source>From IP</source>
+			<translation>De l'adresse IP</translation>
+		</message>
+		<message>
+			<source>Details</source>
+			<translation>Détails</translation>
+		</message>
+		<message>
+			<source>You didn't use any feature yet, come on!</source>
+			<translation>Vous n'avez encore utilisé aucune fonctionnalité, allez-y !</translation>
+		</message>
+		<message>
+			<source>Not yet used</source>
+			<translation>Pas encore utilisé</translation>
+		</message>
+		<message>
+			<source>Depends on the first usage date</source>
+			<translation>Dépend de la date de première utilisation</translation>
+		</message>
+		<message>
+			<source>You didn't use this feature yet, go for it!</source>
+			<translation>Vous n'avez pas encore utilisé cette fonctionnalité, allez-y !</translation>
+		</message>
+		<message>
+			<source>Usage within your account type</source>
+			<translation>Utilisation dans le cadre de votre type de compte</translation>
+		</message>
+		<message>
+			<source>Purchased credits usage</source>
+			<translation>Utilisation des crédits achetés</translation>
+		</message>
+		<message>
+			<source>Expiration date</source>
+			<translation>Date limite d'utilisation</translation>
+		</message>
+	</context>
+	<context>
+		<name>design/system_emails</name>
+		<message>
+			<source>From IP: </source>
+			<translation>De l'IP : </translation>
+		</message>
+		<message>
+			<source>Browser: </source>
+			<translation>Navigateur : </translation>
+		</message>
+	</context>
+	<context>
+		<name>ezcomments/comment/add/form</name>
+		<message>
+			<source>Comment:</source>
+			<translation>Commentaire :</translation>
+		</message>
+		<message>
+			<source>Recaptcha:</source>
+			<translation>Recaptcha :</translation>
+		</message>
+	</context>
+	<context>
+		<name>ezcomments/comment/view</name>
+		<message>
+			<source>The </source>
+			<translation>Le </translation>
+		</message>
+	</context>
+	<context>
+		<name>ezcomments/comment/setting</name>
+		<message>
+			<source>Subscription for email: </source>
+			<translation>Inscription pour l'email : </translation>
+		</message>
+	</context>
+	<context>
+		<name>design/user_emails</name>
+		<message>
+			<source>Best regards</source>
+			<translation>Très cordialement</translation>
+		</message>
+	</context>
+	<context>
+		<name>design/charts</name>
+		<message>
+			<source>Public WSDLs</source>
+			<translation>WSDLs publics</translation>
+		</message>
+		<message>
+			<source>Public packages</source>
+			<translation>Librairies publiques</translation>
+		</message>
+		<message>
+			<source>Private WSDLs</source>
+			<translation>WSDLs privés</translation>
+		</message>
+		<message>
+			<source>Private packages</source>
+			<translation>Librairies privées</translation>
+		</message>
+		<message>
+			<source>First usage of private mode</source>
+			<translation>Première utilisation du mode privé</translation>
+		</message>
+		<message>
+			<source>Event n°number</source>
+			<translation>Evénement n°number</translation>
+		</message>
+		<message>
+			<source>Day</source>
+			<translation>Jour</translation>
+		</message>
+		<message>
+			<source>Hour</source>
+			<translation>Heure</translation>
+		</message>
+		<message>
+			<source>Year</source>
+			<translation>Année</translation>
+		</message>
+		<message>
+			<source>Time</source>
+			<translation>Temps</translation>
+		</message>
+		<message>
+			<source>Limit</source>
+			<translation>Limite</translation>
+		</message>
+		<message>
+			<source>Usage</source>
+			<translation>Utilisation</translation>
+		</message>
+		<message>
+			<source>Calls</source>
+			<translation>Appels</translation>
+		</message>
+		<message>
+			<source>First usage</source>
+			<translation>Première utilisation</translation>
+		</message>
+		<message>
+			<source>credits_number credits purchased</source>
+			<translation>credits_number crédits achetés</translation>
+		</message>
+		<message>
+			<source>credits_number credit purchased</source>
+			<translation>credits_number crédit acheté</translation>
+		</message>
+		<message>
+			<source>Credits usage deadline</source>
+			<translation>Date limite d'utilisation des crédits</translation>
+		</message>
+		<message>
+			<source>Generated files</source>
+			<translation>Fichiers générés</translation>
+		</message>
+		<message>
+			<source>Generated folders</source>
+			<translation>Dossiers générés</translation>
+		</message>
+		<message>
+			<source>Generated source code lines</source>
+			<translation>Lignes de code source générées</translation>
+		</message>
+	</context>
+</TS>
